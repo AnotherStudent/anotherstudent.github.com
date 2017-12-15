@@ -1,4 +1,4 @@
 # PetrS - портфолио
 ## Выбирите раздел:
-* [js](js/readme.md)
+* [js](js/index.html)
 * [python](js/python.md)
