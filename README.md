@@ -1,4 +1,4 @@
 # PetrS - портфолио
 ## Выбирите раздел:
-* ылыл
-* pspspjd
+* [js](js/readme.md)
+* [python](js/python.md)
