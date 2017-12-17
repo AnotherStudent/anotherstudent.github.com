@@ -25,3 +25,4 @@
 * [Вычисление НОД + тесты](https://github.com/herzenuni/herzenuni-sem3-assignment2-11217-AnotherStudent)
 * [Форматированный вывод JSON, используя модуль pprint](https://github.com/herzenuni/sem3-assignment3-081217-AnotherStudent)
 * [Взаимодействие с API ВКонтакте](https://github.com/herzenuni/sem3-json-urlopen-AnotherStudent)
+* [Взаимодействие с API ВКонтакте 2.0](https://github.com/AnotherStudent/vkApiAndTests)
