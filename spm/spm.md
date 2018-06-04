@@ -2,13 +2,13 @@
 
 ## Диаграмма гранта
 #### Ссылка
-- https://github.com/ctel-prj-mng/1-gantt-60218-AnotherStudent
+- https://github.com/ctel-prj-mng/1-gantt-60218-AnotherStudent  
 #### Скриншот
-![https://github.com/ctel-prj-mng/1-gantt-60218-AnotherStudent/blob/master/zoombie.png](https://github.com/ctel-prj-mng/1-gantt-60218-AnotherStudent/blob/master/zoombie.png)
+![https://raw.githubusercontent.com/ctel-prj-mng/1-gantt-60218-AnotherStudent/master/zoombie.png](https://raw.githubusercontent.com/ctel-prj-mng/1-gantt-60218-AnotherStudent/master/zoombie.png)
 
 ## Прототип игры
 #### Ссылка
-- https://github.com/AnotherStudent/BoringGamePrototype
+- https://github.com/AnotherStudent/BoringGamePrototype  
 #### Скриншот
 ![https://raw.githubusercontent.com/AnotherStudent/BoringGamePrototype/master/All.png](https://raw.githubusercontent.com/AnotherStudent/BoringGamePrototype/master/All.png)
 
