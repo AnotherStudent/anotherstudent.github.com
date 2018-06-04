@@ -2,3 +2,4 @@
 ## Выбирите раздел:
 * [js](js/index.html)
 * [python](python/readme.md)
+* [УПП](spm/spm.md)
