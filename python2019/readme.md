@@ -1,11 +1,11 @@
 # Портфолио Python 2019
 
 ## Работа с данными
-[1. работа с данными "Titanic" с использованием Pandas](https://github.com/python-advance/sem6-lr1-AnotherStudent)
-[2. многопоточность, перемножение матриц](NOPE)
-[3. линейная регрессия с одной переменной](https://github.com/AnotherStudent/linear-regression/blob/master/LinearRegression.ipynb)
-[4. градиентный спуск](https://github.com/AnotherStudent/linear-regression/blob/master/LinearRegression.ipynb)
-[5. Polynomial Regression](https://github.com/AnotherStudent/linear-regression/blob/master/PolynomialRegression.ipynb)
+[1. работа с данными "Titanic" с использованием Pandas](https://github.com/python-advance/sem6-lr1-AnotherStudent)  
+[2. многопоточность, перемножение матриц](NOPE)  
+[3. линейная регрессия с одной переменной](https://github.com/AnotherStudent/linear-regression/blob/master/LinearRegression.ipynb)  
+[4. градиентный спуск](https://github.com/AnotherStudent/linear-regression/blob/master/LinearRegression.ipynb)  
+[5. Polynomial Regression](https://github.com/AnotherStudent/linear-regression/blob/master/PolynomialRegression.ipynb)  
 
 ## Модули
 [удаленная загрузка модулей](https://github.com/AnotherStudent/remoteLoadModulePython)  
