@@ -8,15 +8,15 @@
 [Polynomial Regression](https://github.com/AnotherStudent/linear-regression/blob/master/PolynomialRegression.ipynb)  
 
 ## Итераторы
-[Итераторы](https://github.com/python-advance/sem6-t2-AnotherStudent)
+[Итераторы](https://github.com/python-advance/sem6-t2-AnotherStudent)  
 
 ## Паттерны
-[Абстрактная фабрика](https://github.com/AnotherStudent/AbstractFactory)
-[Одиночка](https://github.com/python-advance/sem6-t3-AnotherStudent/tree/master/singleton)
-[Декторатор](https://github.com/python-advance/sem6-t3-AnotherStudent/tree/master/decorator)
+[Абстрактная фабрика](https://github.com/AnotherStudent/AbstractFactory)  
+[Одиночка](https://github.com/python-advance/sem6-t3-AnotherStudent/tree/master/singleton)  
+[Декторатор](https://github.com/python-advance/sem6-t3-AnotherStudent/tree/master/decorator)  
 
 ## Модули
-[удаленная загрузка модулей](https://github.com/AnotherStudent/remoteLoadModulePython)  
-[система классов для блога](https://github.com/AnotherStudent/blogSample)  
+[удаленная загрузка модулей](https://github.com/AnotherStudent/remoteLoadModulePython)    
+[система классов для блога](https://github.com/AnotherStudent/blogSample)    
 
 
