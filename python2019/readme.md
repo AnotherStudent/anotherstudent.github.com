@@ -12,6 +12,8 @@
 
 ## Паттерны
 [Абстрактная фабрика](https://github.com/AnotherStudent/AbstractFactory)
+[Одиночка](https://github.com/python-advance/sem6-t3-AnotherStudent/tree/master/singleton)
+[Декторатор](https://github.com/python-advance/sem6-t3-AnotherStudent/tree/master/decorator)
 
 ## Модули
 [удаленная загрузка модулей](https://github.com/AnotherStudent/remoteLoadModulePython)  
