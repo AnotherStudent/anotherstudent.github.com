@@ -7,6 +7,9 @@
 [4. градиентный спуск](https://github.com/AnotherStudent/linear-regression/blob/master/LinearRegression.ipynb)  
 [5. Polynomial Regression](https://github.com/AnotherStudent/linear-regression/blob/master/PolynomialRegression.ipynb)  
 
+## Итераторы
+[Итераторы](https://github.com/python-advance/sem6-t2-AnotherStudent)
+
 ## Паттерны
 [Абстрактная фабрика](https://github.com/AnotherStudent/AbstractFactory)
 
