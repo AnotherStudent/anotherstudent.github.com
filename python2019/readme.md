@@ -15,6 +15,10 @@
 [Одиночка](https://github.com/python-advance/sem6-t3-AnotherStudent/tree/master/singleton)  
 [Декторатор](https://github.com/python-advance/sem6-t3-AnotherStudent/tree/master/decorator)  
 
+# Графика
+[Генерация QR кодов](https://github.com/python-advance/sem6-t4-AnotherStudent/tree/master/4.2-4.3)
+[График](https://github.com/python-advance/sem6-t4-AnotherStudent/blob/master/4.1/plot.ipynb)
+
 ## Модули
 [удаленная загрузка модулей](https://github.com/AnotherStudent/remoteLoadModulePython)    
 [система классов для блога](https://github.com/AnotherStudent/blogSample)    
