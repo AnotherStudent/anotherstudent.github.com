@@ -6,6 +6,7 @@
 [Линейная регрессия с одной переменной](https://github.com/AnotherStudent/linear-regression/blob/master/LinearRegression.ipynb)  
 [Градиентный спуск](https://github.com/AnotherStudent/linear-regression/blob/master/LinearRegression.ipynb)  
 [Polynomial Regression](https://github.com/AnotherStudent/linear-regression/blob/master/PolynomialRegression.ipynb)  
+[Гостевая книга](https://github.com/AnotherStudent/blogSample)  
 
 ## Итераторы
 [Итераторы](https://github.com/python-advance/sem6-t2-AnotherStudent)  
